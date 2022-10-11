@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../we-study"
+	},
+	{
+		"path": "../instagram-clone-coding-main"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "we-study"
+  }
+}
